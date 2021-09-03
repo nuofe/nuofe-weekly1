@@ -1,0 +1,24 @@
+{
+  "title": "诺诺前端周刊",
+  "author": "zoeblow@gmail.com",
+  "description": "诺诺前端周刊，为前端开发同学创建的每周一小时了解前端发展、技术文档和业界新闻的 readlist",
+  "language": "zh-hans",
+  "links": {
+    "gitbook": false,
+    "sharing": {
+      "google": false,
+      "facebook": false,
+      "twitter": false,
+      "all": false
+    }
+  },
+  "plugins": ["baidu-v3", "push-bd", "github"],
+  "pluginsConfig": {
+    "baidu": {
+      "token": "47d60f4609a3e6a4d35e1e4e7c48f629"
+    },
+    "github": {
+      "url": "https://github.com/nuofe/nuofe-weekly"
+    }
+  }
+}
