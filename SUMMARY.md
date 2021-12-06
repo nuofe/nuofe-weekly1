@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2021-09-03 09:55:53
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2021-11-26 14:27:05
+ * @LastEditTime: 2021-12-03 16:18:06
  * @FilePath: \nuofe-weekly1\SUMMARY.md
  -->
 
@@ -13,6 +13,7 @@
 - [诺诺前端周刊](README.md)
 
 - 2021
+- [第 49 期](2021/weekly-49.md)
 - [第 48 期](2021/weekly-48.md)
 - [第 47 期](2021/weekly-47.md)
 - [第 46 期](2021/weekly-46.md)
