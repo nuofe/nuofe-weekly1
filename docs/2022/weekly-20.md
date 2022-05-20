@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2022-05-13 14:32:06
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2022-05-20 17:40:38
+ * @LastEditTime: 2022-05-20 17:51:27
  * @FilePath: \nuofe-weekly1\2022\weekly-20.md
 -->
 
@@ -48,4 +48,4 @@ Update:2022-05-20
 
 - [Node.js 18 来了！](https://mp.weixin.qq.com/s/_2fVoG8wFr1Oc_ZW-OHRwA)
 
-  > Node.js 已发布了 `18.0.0` 版本，「一句话点评：std lib 在标准化，user lib 在精细化。」
+  > Node.js 已发布了 `18.0.0` 版本，「一句话点评：`std lib` 在标准化，`user lib` 在精细化。」
