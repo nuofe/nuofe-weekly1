@@ -4,11 +4,11 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2023-01-00 17:20:35
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2023-01-13 13:38:58
+ * @LastEditTime: 2023-01-13 13:41:20
  * @FilePath: \nuofe-weekly1\2023\weekly-02.md
  -->
 
-# 诺诺前端周刊：2023-2 期
+# 诺诺前端周刊：2023-02 期
 
 Add:2023-01-13
 
