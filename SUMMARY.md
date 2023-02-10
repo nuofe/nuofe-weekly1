@@ -4,7 +4,7 @@
  * @Email: wangfuyuan@nnuo.com
  * @Date: 2021-09-03 09:55:53
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2023-01-30 10:20:22
+ * @LastEditTime: 2023-02-10 18:07:57
  * @FilePath: \nuofe-weekly1\SUMMARY.md
  -->
 
@@ -13,6 +13,7 @@
 - [诺诺前端周刊](README.md)
 
 - 2023
+- [第 06 期](2023/weekly-06.md)
 - [第 05 期](2023/weekly-05.md)
 - [第 04 期](2023/weekly-04.md)
 - [第 03 期](2023/weekly-03.md)
