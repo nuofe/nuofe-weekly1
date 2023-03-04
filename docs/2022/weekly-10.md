@@ -1,7 +1,7 @@
 <!--
  * @Description: weekly-10
  * @Author: zoeblow
- * @Email: wangfuyuan@nnuo.com
+ * @Email: zoeblow@gmail.com
  * @Date: 2022-01-11 17:20:35
  * @LastEditors: wangfuyuan
  * @LastEditTime: 2022-03-13 21:46:10
@@ -41,7 +41,7 @@ Update:2022-03-11
   > 我们正在寻求可以使用`CSS`连接数据库的前端伙伴~
 
 - [谈到CSS预处理器，你是不是只会用嵌套？](https://mp.weixin.qq.com/s/mc6TKwzj9gGfUirtdj8mpQ)
-  
+
   > `Sass` 最早由 `Hampton Catlin` 开发和设计。一种帮助你简化 `CSS` 工作流程的方式，帮助你更容易维护和开发 `CSS` 内容。
 
 ## 其他

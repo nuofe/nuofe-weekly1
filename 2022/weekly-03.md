@@ -1,7 +1,7 @@
 <!--
  * @Description: weekly-03
  * @Author: zoeblow
- * @Email: wangfuyuan@nnuo.com
+ * @Email: zoeblow@gmail.com
  * @Date: 2022-01-07 17:20:35
  * @LastEditors: wangfuyuan
  * @LastEditTime: 2022-01-21 15:22:04
@@ -20,7 +20,7 @@ Update:2022-01-21
 
 - [6 个可以在 CSS 代码中使用的CSS 函数](https://mp.weixin.qq.com/s/mSOkXTAgcwJMpuIFmwK--Q)
 
-  > CSS 是每个 Web 开发人员必备的样式表语言。 它允许我们设置网页样式并使其具有响应性。 
+  > CSS 是每个 Web 开发人员必备的样式表语言。 它允许我们设置网页样式并使其具有响应性。
 
 - [“和 loading 界面说 ByeBye”—— Remix 颠覆式预加载解析](https://mp.weixin.qq.com/s/nCXRXPZvyhZFIGlyfdvfAQ)
 

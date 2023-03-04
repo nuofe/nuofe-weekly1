@@ -1,7 +1,7 @@
 <!--
  * @Description: weekly-52
  * @Author: zoeblow
- * @Email: wangfuyuan@nnuo.com
+ * @Email: zoeblow@gmail.com
  * @Date: 2021-09-26 10:39:57
  * @LastEditors: wangfuyuan
  * @LastEditTime: 2021-12-24 13:58:23
