@@ -24,7 +24,7 @@ Update:2023-07-14
 
 - [群友问我用过 SWR 吗？一个新的请求数据思路](https://mp.weixin.qq.com/s/G5BXdl9k22jjqEvlYcSHWA)
 
-  > `SWR` 是 `Next.js` 背后的团队 `vecel` 开源的一个 用于数据请求的 `React Hooks` 库！
+  > `SWR` 是 `Next.js` 背后的团队 `vercel` 开源的一个 用于数据请求的 `React Hooks` 库！
 
 - [一个新的 React 概念：Effect Event](https://mp.weixin.qq.com/s/wpn1ujDvVp_VBM0_pK1-GA)
 

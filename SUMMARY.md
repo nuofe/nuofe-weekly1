@@ -3,8 +3,8 @@
  * @Author: zoeblow
  * @Email: zoeblow@gmail.com
  * @Date: 2021-09-03 09:55:53
- * @LastEditors: zoeblow
- * @LastEditTime: 2023-06-30 11:07:04
+ * @LastEditors: wangfuyuan
+ * @LastEditTime: 2023-07-21 10:02:29
  * @FilePath: \nuofe-weekly1\SUMMARY.md
  -->
 
@@ -13,6 +13,7 @@
 - [诺诺前端周刊](README.md)
 
 - 2023
+- [第 29 期](2023/weekly-29.md)
 - [第 28 期](2023/weekly-28.md)
 - [第 27 期](2023/weekly-27.md)
 - [第 26 期](2023/weekly-26.md)
@@ -104,8 +105,6 @@
 - [第 50 期](2021/weekly-50.md)
 - [第 49 期](2021/weekly-49.md)
 - [第 48 期](2021/weekly-48.md)
-=======
->>>>>>> 9962a993e232a3ad66b49e10ff30b988b173953e
 - [第 47 期](2021/weekly-47.md)
 - [第 46 期](2021/weekly-46.md)
 - [第 45 期](2021/weekly-45.md)
