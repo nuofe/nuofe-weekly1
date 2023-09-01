@@ -4,7 +4,7 @@
  * @Email: zoeblow@gmail.com
  * @Date: 2021-09-03 09:55:53
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2023-08-25 15:08:11
+ * @LastEditTime: 2023-09-01 13:57:58
  * @FilePath: \nuofe-weekly1\SUMMARY.md
  -->
 
@@ -13,6 +13,7 @@
 - [诺诺前端周刊](README.md)
 
 - 2023
+- [第 35 期](2023/weekly-35.md)
 - [第 34 期](2023/weekly-34.md)
 - [第 33 期](2023/weekly-33.md)
 - [第 32 期](2023/weekly-32.md)
