@@ -4,7 +4,7 @@
  * @Email: zoeblow@gmail.com
  * @Date: 2021-09-03 09:50:44
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2021-09-03 10:00:51
+ * @LastEditTime: 2023-11-10 13:42:05
  * @FilePath: \nuofe-weekly1\README.md
 -->
 # nuofe-weekly
@@ -21,5 +21,5 @@
 
 ## 分类
 
-原创文章，业界新闻，最新技术文章，web 端、移动端开发，前端工程化，前端自动化，3D/AR/VR/Canvas 相关，Nodejs 开发，混合开发等
+原创文章，业界新闻，最新技术文章，Web 端、移动端开发，前端工程化，前端自动化，3D / AR / VR / Canvas 相关，Nodejs 开发，混合开发等
 也可以发表 工作交流 ，开发心得，技术分享，行业周边等
