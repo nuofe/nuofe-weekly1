@@ -20,15 +20,15 @@ Update:2024-02-09
 
 - [Three.js 物理引擎Oimo.js](https://mp.weixin.qq.com/s/barNCkiFwP4HxuxqVI2PzA)
 
-  > Oimo.js和three.js是两个广泛使用的JavaScript库，用于在Web上创建3D场景，特别是游戏。
+  > `Oimo.js`和`three.js`是两个广泛使用的`JavaScript`库，用于在`Web`上创建`3D`场景，特别是游戏。
 
 - [整天用 Calendar 日历组件，不如自己手写一个吧](https://mp.weixin.qq.com/s/yxLStpRq0O0KQ1cFVxoL2w)
 
-  > 日历组件想必大家都用过，在各个组件库里都有。比如 antd 的 Calendar 组件。
+  > 日历组件想必大家都用过，在各个组件库里都有。比如 `antd` 的 `Calendar` 组件。
 
 - [Vue3批量异步更新是如何实现的？](https://mp.weixin.qq.com/s/d8Nc_14zG5VYdflEMbTg1A)
 
-  > 实现vue中一个非常重要的功能，批量更新或者叫异步更新
+  > 实现`Vue`中一个非常重要的功能，批量更新或者叫异步更新
 
 ## 技术解析
 

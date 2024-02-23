@@ -42,10 +42,10 @@ Update:2024-01-26
 
 - [fsx 简介：JavaScript 的现代文件系统 API](https://mp.weixin.qq.com/s/thUXbi9EjkbjyaKvElNaWw)
 
-  > 介绍了 JavaScript 运行时中文件系统 API 的不足，并提出了改进的方案。
+  > 介绍了 `JavaScript` 运行时中文件系统 `API` 的不足，并提出了改进的方案。
 
 ## 其他
 
 - [相见恨晚的前端开发利器](https://mp.weixin.qq.com/s/RvvVDHbfkdELN4H3sspkgw)
 
-  > 我们在开发h5的时候，一般为了调试方便，遇到问题看一下大概就能定位到错误。
+  > 我们在开发`H5`的时候，一般为了调试方便，遇到问题看一下大概就能定位到错误。
