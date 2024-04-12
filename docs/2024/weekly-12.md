@@ -4,7 +4,7 @@
  * @Email: zoeblow@gmail.com
  * @Date: 2024-01-01 17:20:35
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2024-03-22 15:56:31
+ * @LastEditTime: 2024-04-12 13:59:34
  * @FilePath: \nuofe-weekly1\2024\weekly-12.md
  -->
 
@@ -18,34 +18,34 @@ Update:2024-03-22
 
 ## 前端消息
 
-- [Vue 加载远程组件的解决方案](https://mp.weixin.qq.com/s/2y1bqDjXIcRP0k4tBQo1wA)
+- [React 之 Refs 的使用和 forwardRef 的源码解读](https://mp.weixin.qq.com/s/Ef06YgXdHnVrxBDuV0P3SQ)
 
-  > 基于此我对 `Vue` 加载远程组件的方案进行了研究，并且整理了两个可行的解决方案。
+  > React 提供了 Refs，帮助我们访问 DOM 节点或在 render 方法中创建的 React 元素。
 
-- [为了防止狗上沙发，写了一个浏览器实时识别目标功能](https://mp.weixin.qq.com/s/kif94huXm3nrzCUBX-KbIQ)
+- [基于 iframe 的微前端框架 —— 擎天](https://mp.weixin.qq.com/s/H697ITAQ_Jr1AMK2-uNMUg)
 
-  > 家里有一条狗，很喜欢乘人不备睡沙发，所以希望能识别到狗，然后播放 `gun 下去` 的音频。
+  > iframe 最大的特性就是提供了浏览器原生的硬隔离方案，不论是样式隔离、JS隔离这类问题统统都能被完美解决。
 
-- [Deno、Bun相比Node.js 的优势在哪？](https://mp.weixin.qq.com/s/sj9XQ30deWtRxBmSgYsNwA)
+- [不要再写满屏import导入啦！](https://juejin.cn/post/7344571285848768524)
 
-  > 当前，`Deno` 和 `Bun` 是`Node.js` 的主要替代方案 。
+  > 密密麻麻的import语句不仅仅是一种视觉上的冲击，更是对代码组织结构的一种考验。
 
 ## 技术解析
 
-- [V8引擎Promise源码全面解读](https://juejin.cn/post/7055202073511460895)
+- [如何在线上使用 SourceMap](https://mp.weixin.qq.com/s/7fIc2Jr-e6E2qMH-M5ou4A)
 
-  > 你知道 浏览器 & `Node` 中真正的 `Promise` 执行顺序是怎么样的吗？
+  > 介绍了在线上使用 SourceMap 进行调试的方法和常见问题。
 
-- [Promise 新增的这个 API，挺有用！](https://mp.weixin.qq.com/s/XE8jtTsDKa_ArOiW8fONzw)
+- [SU7启动！尝试还原了SU7网页的炫酷特效](https://mp.weixin.qq.com/s/IxlG998Au6wyW_Xv0eRyOw)
 
-  > `JavaScript` 的异步编程模型是通过 `Promise` 来简化的，它允许我们以更直观的方式处理异步操作。
+  > 最近看到有小伙伴发了一个小米 SU7 的展示网页，那是相当的酷炫：[SU7](gamemcu.com/su7/)
 
-- [原来浏览器插件有这么多风险？](https://mp.weixin.qq.com/s/WkzNVRkBnZAumNE7N9J01A)
+- [3 个超酷的 Node.js 新功能！](https://mp.weixin.qq.com/s/MUA7XUin1n3mvRX-NADs9Q)
 
-  > 浏览器插件为我们上网提供了极大便利，但是浏览器也存在很多风险。
+  > 3 个超酷的 Node.js 新功能！
 
 ## 其他
 
-- [在 React 中管理状态的 4 种方法](https://mp.weixin.qq.com/s/d5Cuo9skgLgqQ9GKOcjp1g)
+- [带你了解透彻浏览器缓存](https://mp.weixin.qq.com/s/WjIb-EjuU9asMIRAmQWn9g)
 
-  > 本文介绍了在 `React` 中管理状态的四种方法：`Context API`、`Redux`、`React Query` 和 `MobX`。
+  > 这里说的不仅仅是我们常见的强缓存和协商缓存，还有浏览器自带的缓存机制
