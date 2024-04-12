@@ -4,7 +4,7 @@
  * @Email: zoeblow@gmail.com
  * @Date: 2024-01-01 17:20:35
  * @LastEditors: wangfuyuan
- * @LastEditTime: 2024-04-12 13:36:53
+ * @LastEditTime: 2024-04-12 14:14:27
  * @FilePath: \nuofe-weekly1\2024\weekly-15.md
  -->
 
@@ -18,34 +18,34 @@ Update:2024-04-12
 
 ## 前端消息
 
-- [​前端人脸识别技术](https://mp.weixin.qq.com/s/63xKXSLaDfOgH0HN-H76fA)
+- [React 之 Refs 的使用和 forwardRef 的源码解读](https://mp.weixin.qq.com/s/Ef06YgXdHnVrxBDuV0P3SQ)
 
-  > 人脸识别技术是一种基于人脸特征进行身份验证和识别的技术，近年来随着深度学习技术的发展，取得了巨大的进步。
+  > React 提供了 Refs，帮助我们访问 DOM 节点或在 render 方法中创建的 React 元素。
 
-- [能不能写出这 40 个单行代码， 直接体现一个人的基础水平！！！](https://mp.weixin.qq.com/s/4SbRgHjq8baT1lpFaWopEQ)
+- [基于 iframe 的微前端框架 —— 擎天](https://mp.weixin.qq.com/s/H697ITAQ_Jr1AMK2-uNMUg)
 
-  > 能不能写出这 40 个单行代码， 直接体现一个人的基础水平！！！
+  > iframe 最大的特性就是提供了浏览器原生的硬隔离方案，不论是样式隔离、JS隔离这类问题统统都能被完美解决。
 
-- [封装和发布一个 npm React UI 组件](https://mp.weixin.qq.com/s/h6HPmu6ESVJJqVnVd5mRqQ)
+- [不要再写满屏import导入啦！](https://juejin.cn/post/7344571285848768524)
 
-  > 本文将介绍如何封装和发布一个 npm React UI 组件，让其他开发者能够轻松使用和集成你的组件。
+  > 密密麻麻的import语句不仅仅是一种视觉上的冲击，更是对代码组织结构的一种考验。
 
 ## 技术解析
 
-- [前端字体优化](https://mp.weixin.qq.com/s/3Yjdvn2uiGn_r6tR7D91Mw)
+- [如何在线上使用 SourceMap](https://mp.weixin.qq.com/s/7fIc2Jr-e6E2qMH-M5ou4A)
 
-  > 字体文件瘦身（前端字体优化）
+  > 介绍了在线上使用 SourceMap 进行调试的方法和常见问题。
 
-- [Three.js实现3D推箱子小游戏](https://mp.weixin.qq.com/s/Kq5LdMGZ2Svk9XPlQXRzEQ)
+- [SU7启动！尝试还原了SU7网页的炫酷特效](https://mp.weixin.qq.com/s/IxlG998Au6wyW_Xv0eRyOw)
 
-  > "推箱子" 游戏的目标是在游戏区域内将箱子移动到指定的位置，通常通过推箱子来完成。
+  > 最近看到有小伙伴发了一个小米 SU7 的展示网页，那是相当的酷炫：[SU7](gamemcu.com/su7/)
 
-- [99%的前端小白都做错了！你还在做这些过时的项目吗？](https://mp.weixin.qq.com/s/zHnS8ii9T59FN-mSsVlmJg)
+- [3 个超酷的 Node.js 新功能！](https://mp.weixin.qq.com/s/MUA7XUin1n3mvRX-NADs9Q)
 
-  >  前端开发是一门热门的技术，近年来吸引了许多小白加入学习。然而，许多小白在学习过程中，却走进了误区，选择了错误的学习项目。
+  > 3 个超酷的 Node.js 新功能！
 
 ## 其他
 
-- [OpenAI放开限制！用户无需注册即可使用](https://mp.weixin.qq.com/s/Ods-o7d0Ap_15cSF4mOyUw)
+- [带你了解透彻浏览器缓存](https://mp.weixin.qq.com/s/WjIb-EjuU9asMIRAmQWn9g)
 
-  > 人工智能(AI)公司OpenAI宣布，将允许用户直接使用ChatGPT，而无需注册该项服务。
+  > 这里说的不仅仅是我们常见的强缓存和协商缓存，还有浏览器自带的缓存机制
